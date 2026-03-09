@@ -71,7 +71,7 @@ I am an aspiring software developer passionate about building **scalable and eff
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghorikahan&theme=default&hide_border=true" alt="GitHub Streak" width="60%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ghorikahan&theme=default&hide_border=true" alt="GitHub Streak" width="60%"/>
 </p>
 
 ---
