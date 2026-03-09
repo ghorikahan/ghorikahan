@@ -39,25 +39,17 @@ public:
 <p align="center">
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </p>
@@ -68,7 +60,7 @@ public:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ghorikahan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ghorikahan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghorikahan&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -96,7 +88,7 @@ public:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ghorikahan&theme=tokyonight&row=1&column=7&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ghorikahan&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
@@ -122,26 +114,6 @@ public:
 
 ---
 
-# 🎮 Coding Animation
-
-<p align="center">
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
-
-</p>
-
----
-
-# 🦖 Fun Coding Dino
-
-<p align="center">
-
-<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="400"/>
-
-</p>
-
----
-
 # 👀 Profile Visitors
 
 <p align="center">
@@ -157,24 +129,16 @@ public:
 <p align="center">
 
 <a href="https://github.com/ghorikahan">
-
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-
 </a>
 
 <a href="https://linkedin.com/in/kahan-ghori-157487394">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
 </a>
 
-</p>
-
----
-
-<p align="center">
-
-⭐ From <a href="https://github.com/ghorikahan">Kahan Ghori</a>
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
