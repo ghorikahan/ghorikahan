@@ -66,12 +66,12 @@ I am an aspiring software developer passionate about building **scalable and eff
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kahan-ghori&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Kahan's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahan-ghori&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ghorikahan&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Kahan's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghorikahan&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kahan-ghori&theme=default&hide_border=true" alt="GitHub Streak" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghorikahan&theme=default&hide_border=true" alt="GitHub Streak" width="60%"/>
 </p>
 
 ---
@@ -85,7 +85,7 @@ I am an aspiring software developer passionate about building **scalable and eff
   <a href="mailto:ghorikahan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/kahan-ghori" target="_blank">
+  <a href="https://github.com/ghorikahan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -93,7 +93,7 @@ I am an aspiring software developer passionate about building **scalable and eff
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kahan-ghori&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ghorikahan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <p align="center">⭐️ <i>"Consistent learning. Hands-on practice. Staying curious. Building impact."</i> ⭐️</p>
